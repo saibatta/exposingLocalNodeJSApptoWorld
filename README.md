@@ -28,14 +28,14 @@ From any directory, execute the lt command:
 `lt --port 3000`
 
 This will setup a tunnel to you local server on port 3000, and give you a public URL that will remain active even if you restart or stop your server:
-> lt - -port 3000
-your url is :  https://asxas.localtunnel.me
+` lt - -port 3000 `
+`your url is :  https://asxas.localtunnel.me`
 
 By default, the URL will have the domain localtunnel.me with a subdomain composed of random characters. This URL will change every time you rerun the process.
 
 
 However, you can request a subdomain (assuming it's available) with the **option --subdomain**. For example:
 
-> lt - -port 3000 --subdomain customsubdomain
-your url is :  https://customsubdomain.localtunnel.me
+`lt - -port 3000 --subdomain customsubdomain`
+`your url is :  https://customsubdomain.localtunnel.me`
 
