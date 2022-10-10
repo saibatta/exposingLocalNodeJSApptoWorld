@@ -1,9 +1,9 @@
-There are four services to expose your **local Node.js** app to the** world**
+There are many ways to expose your **local Node.js** app to the** world** and among those listed few 
 
-- [localtunnel.me](https://localtunnel.github.io/www/ "localtunnel.me")
-- [ngrok](https://ngrok.com/ "ngrok")
--  [vercel](https://vercel.com/home "vercel")
--  [Heroku](https://www.heroku.com/ "Heroku")
+- [localtunnel.me](https://localtunnel.github.io/www/ "localtunnel.me")(easy to test locally )
+- [ngrok](https://ngrok.com/ "ngrok")(easy to test locally)
+-  [vercel](https://vercel.com/home "vercel")(need to deploy the app into cloud)
+-  [Heroku](https://www.heroku.com/ "Heroku")(need to deploy the app into cloud)
 
 
 This can be useful in the following cases:
